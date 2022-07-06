@@ -1,0 +1,17 @@
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.navigation a {
+  color: white;
+  text-decoration: none;
+  padding-right: 2rem;
+  cursor: pointer;
+}
+
+.navigation a:active {
+  background: linear-gradient(to right, #f27121, #e94057);
+}

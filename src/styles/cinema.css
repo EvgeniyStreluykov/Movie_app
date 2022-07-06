@@ -1,0 +1,40 @@
+.cinema {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 2rem;
+  color: rgb(204, 198, 198);
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+    0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
+
+.cinema__column {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 2rem;
+}
+
+.cinema img {
+  box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+    0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.time {
+  margin-bottom: 1rem;
+}
+
+.rentalDate {
+  margin-top: 2rem;
+  text-align: end;
+}
+
+.cinema__img {
+  width: 90%;
+}
