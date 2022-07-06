@@ -1,7 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-import About from './About'
-import Home from './Home'
+import About from './About';
+import Home from './Home';
 
 function Pages() {
   return (
@@ -12,4 +12,4 @@ function Pages() {
   )
 }
 
-export default Pages
+export default Pages;

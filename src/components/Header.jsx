@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 import { Link } from 'react-router-dom';
 
-import Navigation from './Navigation'
+import Navigation from './Navigation';
 import BtnLogIn from './BtnLogIn';
 
-import '../styles/header.css'
+import '../styles/header.css';
 
 const Header = () => {
 

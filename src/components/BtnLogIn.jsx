@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../styles/btnLogIn.css'
+import '../styles/btnLogIn.css';
 
 const BtnLogIn = () => {
   return (

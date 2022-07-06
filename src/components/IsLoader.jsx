@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../styles/isLoader.css'
+import '../styles/isLoader.css';
 
 const IsLoader = () => {
   return (
