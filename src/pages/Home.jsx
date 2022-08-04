@@ -1,15 +1,9 @@
-import React from 'react';
+import React from "react";
 
-import Films from '../components/Films';
-import Header from '../components/Header';
+import Films from "../components/Films";
 
-function Home() {
-  return (
-    <div>
-      <Header />
-      <Films />
-    </div>
-  )
-}
+const Home = () => (
+    <Films />
+);
 
 export default Home;

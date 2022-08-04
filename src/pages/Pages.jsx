@@ -1,15 +1,15 @@
-import React from 'react';
+import React from "react";
 
-import About from './About';
-import Home from './Home';
+import About from "./About";
+import Home from "./Home";
+import Profile from "./Profile";
 
-function Pages() {
-  return (
-    <div>
-      <Home />
-      <About />
-    </div>
-  )
-}
+const Pages = () => (
+  <div>
+    <Home />
+    <About />
+    <Profile />
+  </div>
+);
 
 export default Pages;
