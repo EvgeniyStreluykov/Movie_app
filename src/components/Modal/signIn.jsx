@@ -205,7 +205,7 @@ export function SimpleModalSignIn(props) {
         aria-describedby="simple-modal-description"
       >
         <div style={modalStyle}>
-          {currentForm === 1 ? (
+          {currentForm === 2 ? (
             <SignInForm
               fields={FIELDS}
               fieldChange={fieldChange}
