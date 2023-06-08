@@ -1,6 +1,7 @@
 {
   "name": "cinema",
   "version": "0.1.0",
+  "homepage": "https://evgeniystreluykov.github.io/Movie_app/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
